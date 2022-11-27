@@ -65,9 +65,19 @@ class Shader {
             glUseProgram(id);
         }
 
+        void setUniform1i(std::string name, int i) {
+            int uniformId = glGetUniformLocation(id, name.c_str());
+            glUniform1i(uniformId, i);
+        }
+
         void setUniform4f(std::string name, float x, float y, float z, float w) {
             int uniformId = glGetUniformLocation(id, name.c_str());
             glUniform4f(uniformId, x, y, z, w);
+        }
+
+        void setMat4(const std::string &name, const glm::mat4 &mat) const
+        {
+            glUniformMatrix4fv(glGetUniformLocation(id, name.c_str()), 1, GL_FALSE, &mat[0][0]);
         }
 
         void deleteProgram() {

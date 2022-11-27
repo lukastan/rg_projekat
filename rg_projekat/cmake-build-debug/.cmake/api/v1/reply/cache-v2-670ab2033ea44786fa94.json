@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/luka/CLionProjects/rg_projekat/cmake-build-debug"
+			"value" : "/home/luka/rg_projekat/rg_projekat/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -591,7 +591,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/luka/CLionProjects/rg_projekat"
+			"value" : "/home/luka/rg_projekat/rg_projekat"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1135,7 +1135,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/luka/CLionProjects/rg_projekat/cmake-build-debug/glad"
+			"value" : "/home/luka/rg_projekat/rg_projekat/cmake-build-debug/glad"
 		},
 		{
 			"name" : "Glad_IS_TOP_LEVEL",
@@ -1159,7 +1159,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/luka/CLionProjects/rg_projekat/glad"
+			"value" : "/home/luka/rg_projekat/rg_projekat/glad"
 		},
 		{
 			"name" : "OPENGL_EGL_INCLUDE_DIR",
@@ -1311,7 +1311,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/luka/CLionProjects/rg_projekat/cmake-build-debug"
+			"value" : "/home/luka/rg_projekat/rg_projekat/cmake-build-debug"
 		},
 		{
 			"name" : "rg_projekat_IS_TOP_LEVEL",
@@ -1335,7 +1335,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/luka/CLionProjects/rg_projekat"
+			"value" : "/home/luka/rg_projekat/rg_projekat"
 		}
 	],
 	"kind" : "cache",

@@ -74,14 +74,14 @@
 				{
 					"directoryIndex" : 1,
 					"id" : "glad::@74ca6b3581f0d7366b1f",
-					"jsonFile" : "target-glad-Debug-529a310251aa05bf2a56.json",
+					"jsonFile" : "target-glad-Debug-ae277019a4a3c3b67060.json",
 					"name" : "glad",
 					"projectIndex" : 1
 				},
 				{
 					"directoryIndex" : 0,
 					"id" : "rg_projekat::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-rg_projekat-Debug-c5ca281a035133c3851e.json",
+					"jsonFile" : "target-rg_projekat-Debug-ff9fe38f58fbb9cf0a3b.json",
 					"name" : "rg_projekat",
 					"projectIndex" : 0
 				}
@@ -91,8 +91,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/home/luka/CLionProjects/rg_projekat/cmake-build-debug",
-		"source" : "/home/luka/CLionProjects/rg_projekat"
+		"build" : "/home/luka/rg_projekat/rg_projekat/cmake-build-debug",
+		"source" : "/home/luka/rg_projekat/rg_projekat"
 	},
 	"version" : 
 	{
