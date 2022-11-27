@@ -1,0 +1,5 @@
+/snap/clion/209/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/snap/clion/209/bin/ninja/linux/ninja -G Ninja -S /home/luka/CLionProjects/rg_projekat -B /home/luka/CLionProjects/rg_projekat/cmake-build-debug
+-- Found OpenGL: /usr/lib/x86_64-linux-gnu/libOpenGL.so   
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/luka/CLionProjects/rg_projekat/cmake-build-debug
